@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+5e0e3d1b7e45498f1db1addcc77ba03e 2WProject_autogen/H2KB3QFFI3/qrc_assets.cpp
+529e79246fcdc34c73e0425bf264b97d 2WProject_autogen/XS3UTYWJEA/qrc_qml.cpp
+ce949735a9713de1d1dff5b75baca5fc 3rd_party-static/CMakeFiles/jsoncpp_autogen
+b50b428096eb94438bcb18219c4c9538 CMakeFiles/2WProject_autogen
+323184b1aa5c61ec8fff5c9c14a10981 CMakeFiles/lib2WProject_autogen

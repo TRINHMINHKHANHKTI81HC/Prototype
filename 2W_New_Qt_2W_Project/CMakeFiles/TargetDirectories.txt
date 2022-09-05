@@ -1,0 +1,16 @@
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/CMakeFiles/2WProject.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/CMakeFiles/lib2WProject.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/CMakeFiles/edit_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/CMakeFiles/rebuild_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/CMakeFiles/2WProject_autogen.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/CMakeFiles/lib2WProject_autogen.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/3rd_party-static/CMakeFiles/jsoncpp.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/3rd_party-static/CMakeFiles/edit_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/3rd_party-static/CMakeFiles/rebuild_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/3rd_party-static/CMakeFiles/jsoncpp_autogen.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/gui/CMakeFiles/edit_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/gui/CMakeFiles/rebuild_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/gui/includes/CMakeFiles/edit_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/gui/includes/CMakeFiles/rebuild_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/gui/src/CMakeFiles/edit_cache.dir
+/home/lyd3hc/Desktop/2W_New_Qt_2W_Project/gui/src/CMakeFiles/rebuild_cache.dir
