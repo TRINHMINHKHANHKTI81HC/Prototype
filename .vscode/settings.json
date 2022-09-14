@@ -2,6 +2,8 @@
     "files.associations": {
         "atomic": "cpp",
         "cstdint": "cpp",
-        "*.ipp": "cpp"
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp"
     }
 }
