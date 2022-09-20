@@ -1,0 +1,16 @@
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/2WProject.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/lib2WProject.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/2WProject_autogen.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/lib2WProject_autogen.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/3rd_party-static/CMakeFiles/rebuild_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/3rd_party-static/CMakeFiles/jsoncpp.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/3rd_party-static/CMakeFiles/edit_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/3rd_party-static/CMakeFiles/jsoncpp_autogen.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/gui/CMakeFiles/rebuild_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/gui/CMakeFiles/edit_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/gui/includes/CMakeFiles/rebuild_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/gui/includes/CMakeFiles/edit_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/gui/src/CMakeFiles/rebuild_cache.dir
+/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug/gui/src/CMakeFiles/edit_cache.dir

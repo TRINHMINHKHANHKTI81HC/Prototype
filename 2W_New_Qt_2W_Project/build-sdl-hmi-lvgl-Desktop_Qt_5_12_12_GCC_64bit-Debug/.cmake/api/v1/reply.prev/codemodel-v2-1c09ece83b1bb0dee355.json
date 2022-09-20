@@ -1,0 +1,161 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "3rd_party-static",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3rd_party-static",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "gui",
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "gui"
+				},
+				{
+					"build" : "gui/includes",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "gui/includes"
+				},
+				{
+					"build" : "gui/src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "gui/src"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "2WProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2WProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2WProject-Debug-34aceb4a044069ab3866.json",
+					"name" : "2WProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2WProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2WProject_autogen-Debug-e42b90970dfa374ba3d7.json",
+					"name" : "2WProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "jsoncpp::@03a5b87968a6961c635a",
+					"jsonFile" : "target-jsoncpp-Debug-c6cbfa81f0ccb9cea4f6.json",
+					"name" : "jsoncpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "jsoncpp_autogen::@03a5b87968a6961c635a",
+					"jsonFile" : "target-jsoncpp_autogen-Debug-d3a98b98558f502fa252.json",
+					"name" : "jsoncpp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lib2WProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lib2WProject-Debug-1ac4f1df292d50002270.json",
+					"name" : "lib2WProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lib2WProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lib2WProject_autogen-Debug-dfe51a838621035d0fa6.json",
+					"name" : "lib2WProject_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/build-sdl-hmi-lvgl-Desktop_Qt_5_12_12_GCC_64bit-Debug",
+		"source" : "/home/khanhminh1234/Downloads/CAN_PROJECT/2W_New_Qt_2W_Project/sdl-hmi-lvgl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
